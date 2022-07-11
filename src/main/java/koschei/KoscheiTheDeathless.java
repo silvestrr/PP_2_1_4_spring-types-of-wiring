@@ -1,5 +1,6 @@
 package koschei;
 
+import koschei.models.Egg6;
 import koschei.models.Ocean1;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
